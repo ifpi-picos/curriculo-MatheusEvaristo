@@ -1,0 +1,20 @@
+body{
+   
+    background-color: rgba(6, 66, 163, 0.938);
+}
+
+img{
+   
+    border-radius: 100%;
+}
+
+p{
+   
+    color: black;
+}
+ h1, p{
+    
+    text-align: center;
+    color: black;
+    
+ }
